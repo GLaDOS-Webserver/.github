@@ -18,3 +18,9 @@
 
 ### DONE
 - Service lists on the navbar
+
+  ## Ressources
+ [Figma Model](https://www.figma.com/file/dyIbVL7kDK70ULgD1sMW2x/Site-GLaDOS?type=design&node-id=0%3A1&mode=design&t=piwo6VTOOQMEXLzS-1)  
+ [Plex API](https://plexapi.dev/docs/plex)  
+ [Radarr and Sonarr documentation](https://wiki.servarr.com/)
+ [Golang Download page](https://go.dev/dl/)
