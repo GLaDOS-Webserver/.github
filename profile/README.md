@@ -1,5 +1,12 @@
 # GLaDOS WebServer Project
 
+## Table of Content
+1. [ROAD MAP](#ROAD-MAP)
+   1. [Legend](#Legend)
+   2. [TO DO](#TO-DO)
+   3. [DONE](#DONE)
+2. [RESSOURCES](#Ressources)
+
 ## ROAD MAP
 
 ### Legend
